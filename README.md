@@ -16,13 +16,13 @@ The analysis is framed for higher education assessment providers and focuses on 
 ---
 
 ## Repository Contents
-- **MIS581_Mod7_DeshaM.docx/**  
+- **MIS581_Mod7_DeshaM.docx**  
   Final written Portfolio Project paper.
 
-- **MIS581_Descriptive Stats.pdf & MIS581_Analysis.pdf/**  
+- **MIS581_Descriptive Stats.pdf & MIS581_Analysis.pdf**  
   PDFs of statistical outputs, tables, and visualizations generated during the analysis.
 
-- **project setup.sas & descriptive stats.sas & analysis.sas/**  
+- **project setup.sas & descriptive stats.sas & analysis.sas**  
   SAS programs used for data preparation, descriptive statistics, and inferential analysis.
 
 ---
